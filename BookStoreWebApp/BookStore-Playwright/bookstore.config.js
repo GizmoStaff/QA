@@ -9,11 +9,7 @@ expect:7000,
 use:{
     baseURL:"https://demoqa.com",
     headless:false,
-    
-
 }
-
-
 
 };
 
