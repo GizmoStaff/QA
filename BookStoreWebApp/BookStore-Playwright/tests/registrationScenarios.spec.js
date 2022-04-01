@@ -157,16 +157,6 @@ await expect(userExist).not.toBeVisible();
 
 
 
-
-
-
-
-
-
-
-
-
-
 test.describe("Registration tests for Invalid Scenarios",()=>{
 
 test.beforeEach(async({page})=>{
