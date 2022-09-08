@@ -1,19 +1,18 @@
 
 
 
-#### TEST AUTOMATION
-- IDE: Visual Studio Code
-- Playwright
+### TEST AUTOMATION
+- Visual Studio Code
+- NodeJS
 - JavaScript
+- Playwright
 
 
 ### REPORT
-- Playwright HTML report
+- Playwright HTML test report
 
-
-### CLONE THE REPO
 
 
 
 ### RESOURCE
-[https://playwright.dev/docs/intro]
+- [Documentation](https://playwright.dev/docs/intro)
